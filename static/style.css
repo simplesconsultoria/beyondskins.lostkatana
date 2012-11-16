@@ -107,6 +107,9 @@ margin-bottom: 0.25em;
 #content ol li, dl.portlet ol li {list-style: decimal outside;}
 dl.portlet ul.navTreeLevel0 > .navTreeItem {list-style: none;}
 
+#category a.link-category, span.selectedTag {background: #fff; color: #734f33;}
+#category a.link-category:hover {background: #734f33; color: #fff;}
+
 /****************** PORTLETS ******************/
 dl.portlet dt, div.portletAssignments div.portletHeader {background: #e9d8bb;}
 
@@ -131,6 +134,8 @@ dl.portlet dt, div.portletAssignments div.portletHeader {background: #e9d8bb;}
 	#wrapper {max-width: 100%;}
 	#logo {min-width:140px;}	
 	
+	#header {padding: 0 0 315px;}
+	
 	/*Columns*/
 	#portal-column-one, 
 	#portal-column-two,
@@ -140,8 +145,7 @@ dl.portlet dt, div.portletAssignments div.portletHeader {background: #e9d8bb;}
     #portal-searchbox  {display:none;}
 
 	/*Global navigation*/
-	#nav {padding:0;width:100%;
-	}
+	#nav {padding:0;width:100%; background: #734f33;}
 	
 	#searchbt {display:block; float:right;width:14%;}
 	
