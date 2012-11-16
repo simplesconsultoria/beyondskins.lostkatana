@@ -25,7 +25,7 @@ Screenshots
 
 Layout of the site when viewed in a computer resolution:
 
-.. image:: https://github.com/simplesconsultoria/beyondskins.responsive/raw/master/preview.jpg
+.. image:: https://github.com/simplesconsultoria/beyondskins.lostkatana/raw/master/preview.jpg
 
 
 Installation
