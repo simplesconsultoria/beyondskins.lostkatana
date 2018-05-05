@@ -27,7 +27,7 @@ Screenshots
 
 Layout of the site when viewed in a computer resolution:
 
-.. image:: https://github.com/simplesconsultoria/beyondskins.lostkatana/raw/master/beyondskins/lostkatana/theme/preview.png
+.. image:: https://github.com/simplesconsultoria/beyondskins.lostkatana/raw/master/beyondskins/lostkatana/theme/preview.jpg
 
 
 Features
