@@ -4,6 +4,8 @@ Changelog
 0.1dev (unreleased)
 -------------------
 
+- Added maintainer name and email setuptools metadata [macagua]
+
 - Added a simple Diazo theme package (Zip file) [macagua]
 
 - Added Plone theme package structure [macagua]
