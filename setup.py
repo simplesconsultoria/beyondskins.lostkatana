@@ -5,7 +5,7 @@ version = '0.1'
 
 setup(name='beyondskins.lostkatana',
       version=version,
-      description="Beyondskins Lost Katana Theme for Plone/Diazo powered sites",
+      description="Beyondskins Lost Katana Theme, is an installable Diazo theme for Plone 4",
       long_description=open("README.rst").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from

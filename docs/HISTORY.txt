@@ -4,6 +4,8 @@ Changelog
 0.1dev (unreleased)
 -------------------
 
+- Changed the description for setuptools metadata classifier [macagua]
+
 - Added the license for setuptools metadata classifier [macagua]
 
 - Added maintainer name and email setuptools metadata [macagua]
