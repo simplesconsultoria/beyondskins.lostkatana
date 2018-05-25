@@ -4,6 +4,8 @@ Changelog
 0.1dev (unreleased)
 -------------------
 
+- Added the license for setuptools metadata classifier [macagua]
+
 - Added maintainer name and email setuptools metadata [macagua]
 
 - Added a simple Diazo theme package (Zip file) [macagua]
