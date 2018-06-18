@@ -4,6 +4,8 @@ Changelog
 0.1dev (unreleased)
 -------------------
 
+- Updated Diazo manifest file [macagua]
+
 - Changed the description for setuptools metadata classifier [macagua]
 
 - Added the license for setuptools metadata classifier [macagua]
