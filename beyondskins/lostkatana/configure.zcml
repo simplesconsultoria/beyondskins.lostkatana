@@ -18,7 +18,7 @@
 
   <genericsetup:registerProfile
       name="uninstall"
-      title="beyondskins.lostkatana: Uninstall profile for Plone 4 Diazo Theme"
+      title="beyondskins.lostkatana Uninstall"
       directory="profiles/uninstall"
       description="Uninstalls the beyondskins.lostkatana package"
       provides="Products.GenericSetup.interfaces.EXTENSION"
