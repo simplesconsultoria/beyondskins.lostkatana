@@ -1,0 +1,29 @@
+Changelog
+=========
+
+0.1dev (unreleased)
+-------------------
+
+- Updated Diazo manifest file [macagua]
+
+- Changed the description for setuptools metadata classifier [macagua]
+
+- Added the license for setuptools metadata classifier [macagua]
+
+- Added maintainer name and email setuptools metadata [macagua]
+
+- Added a simple Diazo theme package (Zip file) [macagua]
+
+- Added Plone theme package structure [macagua]
+
+- Fix preview image link [agnogueira]
+
+- Rename README.rst to README.txt to make distutils happy [agnogueira]
+
+- add readme [agnogueira]
+
+- Fixed menu in small resolutions [agnogueira]
+
+- Initial commit [agnogueira]
+
+- Initial release
